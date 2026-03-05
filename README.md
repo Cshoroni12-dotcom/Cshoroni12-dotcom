@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi there!<br><br>## 🚀 Current Project<br><br>I’m currently working on an **AI filter** that detects swear words from users, prompts, or even other AIs and automatically removes the content or reports the user.<br><br>## 🧩 My Projects<br><br>Here are some projects I’ve built or contributed to:<br><br>* **AI Moderation Filter** – A system that detects swear words or toxic prompts from users, people, or other AIs and automatically removes or reports them.<br><br>* **City Crime Prediction AI** – An AI tool that analyzes data to **predict crime rates across different areas of a city** and warn people when crime activity is expected to be higher than usual.<br><br>* **Visebot (Discord Bot)** – A Discord bot project (now discontinued) that could:<br><br>  * Play **music in voice channels**<br>  * Respond to users when **pinged**<br>  * Generate **AI responses using APIs**<br><br>* **ARIES AI (Contributor)** – Contributed to an **open-source AI model project** called *ARIES AI* (now discontinued).<br>  The AI was designed to act like a** streamer capable of:**<br><br>  * Streaming on platforms (twitch , bili bili ect....)<br>  * Reading and reacting to chat<br>  * Responding to viewers<br>  * Acting similarly to a real streamer but powered by AI<br><br>*(More projects will be added here as I continue building.)*<br><br>## 🧑‍💻 Current Work & Study<br><br>I am currently **studying and working on programming at CodeLabs**, where I focus on improving my coding skills and learning more about software development, AI concepts, and problem solving.<br><br>## 🤝 Collaboration<br><br>I’m open to collaborating with people who are interested in **AI development, software projects, and creative tech ideas**.<br><br>Areas I’d love to collaborate on:<br><br>* Artificial Intelligence / Machine Learning<br>* AI moderation and safety tools<br>* Backend or API development<br>* Frontend development<br><br>I also enjoy working with **streamers and content creators**. I’ve helped with things like website creation, stream setups, and technical support.<br><br>If you're interested in collaborating, feel free to **DM me on Discord or contact me through email**.<br><br>## 🌱 Currently Learning<br><br>* Python (my strongest language)<br>* Planning to learn:<br><br>  * C<br>  * Bash<br>  * SQL<br><br>## 💬 Ask Me About<br><br>* AI and machine learning<br>* Neural networks<br>* API usage and development<br>* Math problems<br><br>Or just reach out if you want to talk about tech or projects.<br><br>## 📅 Availability / Test Schedule<br><br>**Current as of: 2026 / March / 5**<br>*(If this section hasn’t been updated, the schedule is still the same.)*<br><br>Because I’m a student, there are certain periods where I won’t be able to work on collaborations or projects due to exams.<br><br>**Exam periods:**<br><br>* **April 29 – April 30 test**<br>  Unavailable: **March 15 → May 1**<br><br>* **June 30 test**<br>  Unavailable: **May 20 → June 30**<br><br>* **September 30 test**<br>  Unavailable: **August 1 → September 30**<br><br>* **November 17 test**<br>  Unavailable: **October 1 → November 17**<br><br>Except for these periods, I will generally be **available for collaborations, projects, and learning with others**.<br><br>## ⚡ Fun Fact<br><br>I’m still a **student**, and I probably live on the opposite side of the world from you. Because of the time difference, replies might take around **8+ hours**, but when I’m available I’m usually active for long periods unless I have a test coming up.<br>
 
-<!--
-**Cshoroni12-dotcom/Cshoroni12-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hmtryhard_63199) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Scorycoder) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Scorycoder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Scory237@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cshoroni12-dotcom&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Cshoroni12-dotcom&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cshoroni12-dotcom&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
